@@ -1,0 +1,12 @@
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\bin\Debug\übung1.exe.config
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\bin\Debug\übung1.exe
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\bin\Debug\übung1.pdb
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\bin\Debug\übung1.xml
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\obj\Debug\übung1.vbprojAssemblyReference.cache
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\obj\Debug\übung1.Form1.resources
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\obj\Debug\übung1.Resources.resources
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\obj\Debug\übung1.vbproj.GenerateResource.cache
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\obj\Debug\übung1.vbproj.CoreCompileInputs.cache
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\obj\Debug\übung1.exe
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\obj\Debug\übung1.xml
+P:\Studium\Master\1. semester\einführung-programmierung\projects\übung1\übung1\obj\Debug\übung1.pdb

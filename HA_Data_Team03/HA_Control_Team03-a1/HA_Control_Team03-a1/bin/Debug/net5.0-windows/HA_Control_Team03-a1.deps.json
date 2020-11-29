@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HA_Control_Team03-a1/1.0.0": {
+        "runtime": {
+          "HA_Control_Team03-a1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HA_Control_Team03-a1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
