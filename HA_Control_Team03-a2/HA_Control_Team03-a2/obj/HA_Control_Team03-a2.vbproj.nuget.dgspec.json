@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj": {}
+    "C:\\Users\\K_Kle\\Desktop\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj": {}
   },
   "projects": {
-    "D:\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj": {
+    "C:\\Users\\K_Kle\\Desktop\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj",
+        "projectUniqueName": "C:\\Users\\K_Kle\\Desktop\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj",
         "projectName": "HA_Control_Team03-a2",
-        "projectPath": "D:\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj",
-        "packagesPath": "C:\\Users\\kklein\\.nuget\\packages\\",
-        "outputPath": "D:\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\obj\\",
+        "projectPath": "C:\\Users\\K_Kle\\Desktop\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj",
+        "packagesPath": "C:\\Users\\K_Kle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\K_Kle\\Desktop\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kklein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\K_Kle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,3 +11,16 @@ D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Cont
 D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.dll
 D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.pdb
 D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.genruntimeconfig.cache
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.exe
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.deps.json
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.runtimeconfig.json
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.runtimeconfig.dev.json
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.dll
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.pdb
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.vbprojAssemblyReference.cache
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.AssemblyInfoInputs.cache
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.AssemblyInfo.vb
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.vbproj.CoreCompileInputs.cache
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.dll
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.pdb
+C:\Users\K_Kle\Desktop\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.genruntimeconfig.cache
