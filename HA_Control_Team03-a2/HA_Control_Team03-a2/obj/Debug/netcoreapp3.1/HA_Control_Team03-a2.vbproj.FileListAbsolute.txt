@@ -1,0 +1,13 @@
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.exe
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.deps.json
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.runtimeconfig.json
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.runtimeconfig.dev.json
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.dll
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\bin\Debug\netcoreapp3.1\HA_Control_Team03-a2.pdb
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.vbprojAssemblyReference.cache
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.AssemblyInfoInputs.cache
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.AssemblyInfo.vb
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.vbproj.CoreCompileInputs.cache
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.dll
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.pdb
+D:\vep\HA_Control_Team03-a2\HA_Control_Team03-a2\obj\Debug\netcoreapp3.1\HA_Control_Team03-a2.genruntimeconfig.cache
