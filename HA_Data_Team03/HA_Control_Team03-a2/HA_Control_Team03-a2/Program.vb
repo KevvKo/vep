@@ -19,8 +19,8 @@ Module Program
                 Console.WriteLine("Bitte geben Sie die Gesamtanzahl der Personen ein:")
                 Dim inp As String = Console.ReadLine()
 
-                'Typecheck if input is an integer'
-                If (Int32.TryParse(inp, countPersons)) Then
+                'Typecheck if input is an integer and larger than 1'
+                If (Int32.TryParse(inp, countPersons) And inp >= 1) Then
                     Exit While
                 End If
             End While
@@ -29,8 +29,8 @@ Module Program
                 Console.WriteLine("Bitte geben Sie die Anzahl der zu verbleibenden Personen ein")
                 Dim inp As String = Console.ReadLine()
 
-                'Typecheck if input is an integer'
-                If (Int32.TryParse(inp, remainingPersons)) Then
+                'Typecheck if input is an integer and larger than 1'
+                If (Int32.TryParse(inp, remainingPersons) And inp >= 1) Then
                     Exit While
                 End If
             End While
@@ -39,8 +39,8 @@ Module Program
                 Console.WriteLine("Bitte geben Sie den Abstand der Personen untereinander ein:")
                 Dim inp As String = Console.ReadLine()
 
-                'Typecheck if input is an integer'
-                If (Int32.TryParse(inp, steps)) Then
+                'Typecheck if input is an integer and larger than 1'
+                If (Int32.TryParse(inp, steps) And inp >= 1) Then
                     Exit While
                 End If
             End While

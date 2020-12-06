@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj",
+      "projectUniqueName": "D:\\vep\\HA_Data_Team03\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj",
       "projectName": "HA_Control_Team03-a2",
-      "projectPath": "D:\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj",
+      "projectPath": "D:\\vep\\HA_Data_Team03\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\HA_Control_Team03-a2.vbproj",
       "packagesPath": "C:\\Users\\kklein\\.nuget\\packages\\",
-      "outputPath": "D:\\vep\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\obj\\",
+      "outputPath": "D:\\vep\\HA_Data_Team03\\HA_Control_Team03-a2\\HA_Control_Team03-a2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kklein\\AppData\\Roaming\\NuGet\\NuGet.Config",
