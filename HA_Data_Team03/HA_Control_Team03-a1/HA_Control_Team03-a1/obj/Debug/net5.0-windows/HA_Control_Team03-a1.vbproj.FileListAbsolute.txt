@@ -16,3 +16,21 @@ P:\Studium\Master\1. semester\einführung-programmierung\projects\HA_Control_Tea
 P:\Studium\Master\1. semester\einführung-programmierung\projects\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\ref\HA_Control_Team03-a1.dll
 P:\Studium\Master\1. semester\einführung-programmierung\projects\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.pdb
 P:\Studium\Master\1. semester\einführung-programmierung\projects\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.genruntimeconfig.cache
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\bin\Debug\net5.0-windows\HA_Control_Team03-a1.exe
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\bin\Debug\net5.0-windows\HA_Control_Team03-a1.deps.json
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\bin\Debug\net5.0-windows\HA_Control_Team03-a1.runtimeconfig.json
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\bin\Debug\net5.0-windows\HA_Control_Team03-a1.runtimeconfig.dev.json
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\bin\Debug\net5.0-windows\HA_Control_Team03-a1.dll
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\bin\Debug\net5.0-windows\ref\HA_Control_Team03-a1.dll
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\bin\Debug\net5.0-windows\HA_Control_Team03-a1.pdb
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.vbprojAssemblyReference.cache
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03_a1.Form1.resources
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.vbproj.GenerateResource.cache
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.AssemblyInfoInputs.cache
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.AssemblyInfo.vb
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.vbproj.CoreCompileInputs.cache
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.dll
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\ref\HA_Control_Team03-a1.dll
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.pdb
+D:\vep\HA_Data_Team03\HA_Control_Team03-a1\HA_Control_Team03-a1\obj\Debug\net5.0-windows\HA_Control_Team03-a1.genruntimeconfig.cache

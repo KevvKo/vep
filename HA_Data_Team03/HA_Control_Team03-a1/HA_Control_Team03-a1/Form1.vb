@@ -15,65 +15,63 @@
         Dim selectedIndex As String = ComboBox1.SelectedIndex
         RichTextBox1.Text = ""
 
-        If (selectedIndex = 0) Then
+        'Switch case to check which loop variant was selected'
+        Select Case selectedIndex
+            Case 0
 
-            RichTextBox1.Text &= "For ... Next: " & vbNewLine & vbNewLine
-            For i As Integer = 1 To 100
-                If primenumber(i) Then
-                    RichTextBox1.Text &= i & vbNewLine
-                End If
-            Next i
-        End If
+                RichTextBox1.Text &= "For ... Next: " & vbNewLine & vbNewLine
+                For i As Integer = 1 To 100
+                    If primenumber(i) Then
+                        RichTextBox1.Text &= i & vbNewLine
+                    End If
+                Next i
 
-        If (selectedIndex = 1) Then
-            Dim i As Integer = 1
-            RichTextBox1.Text &= "Do While ... Loop: " & vbNewLine & vbNewLine
+            Case 1
+                Dim i As Integer = 1
+                RichTextBox1.Text &= "Do While ... Loop: " & vbNewLine & vbNewLine
 
-            Do While i <= 100
-                If primenumber(i) Then
-                    RichTextBox1.Text &= i & vbNewLine
-                End If
-                i += 1
-            Loop
-        End If
+                Do While i <= 100
+                    If primenumber(i) Then
+                        RichTextBox1.Text &= i & vbNewLine
+                    End If
+                    i += 1
+                Loop
 
-        If (selectedIndex = 2) Then
-            Dim i As Integer = 1
-            RichTextBox1.Text &= "Do ... Loop While: " & vbNewLine & vbNewLine
-            Do
-                If primenumber(i) Then
-                    RichTextBox1.Text &= i & vbNewLine
-                End If
-                i += 1
-            Loop While i <= 100
-        End If
+            Case 2
+                Dim i As Integer = 1
+                RichTextBox1.Text &= "Do ... Loop While: " & vbNewLine & vbNewLine
+                Do
+                    If primenumber(i) Then
+                        RichTextBox1.Text &= i & vbNewLine
+                    End If
+                    i += 1
+                Loop While i <= 100
 
-        If (selectedIndex = 3) Then
-            Dim i As Integer = 1
-            RichTextBox1.Text &= "Do Until ... Loop: " & vbNewLine & vbNewLine
 
-            Do Until i > 100
-                If primenumber(i) Then
-                    RichTextBox1.Text &= i & vbNewLine
-                End If
-                i += 1
-            Loop
-        End If
+            Case 3
+                Dim i As Integer = 1
+                RichTextBox1.Text &= "Do Until ... Loop: " & vbNewLine & vbNewLine
 
-        If (selectedIndex = 4) Then
-            Dim i As Integer = 1
-            RichTextBox1.Text &= "Do ... Loop Until: " & vbNewLine & vbNewLine
+                Do Until i > 100
+                    If primenumber(i) Then
+                        RichTextBox1.Text &= i & vbNewLine
+                    End If
+                    i += 1
+                Loop
 
-            Do
-                If primenumber(i) Then
-                    RichTextBox1.Text &= i & vbNewLine
-                End If
-                i += 1
-            Loop Until i > 100
-        End If
+            Case 4
+                Dim i As Integer = 1
+                RichTextBox1.Text &= "Do ... Loop Until: " & vbNewLine & vbNewLine
 
+                Do
+                    If primenumber(i) Then
+                        RichTextBox1.Text &= i & vbNewLine
+                    End If
+                    i += 1
+                Loop Until i > 100
+        End Select
     End Sub
-
+    'Function to check ifthe current integer is a primenumber'
     Function primenumber(x As Integer)
         Dim isPrim As Boolean = True
         For i As Integer = 2 To x
@@ -88,4 +86,7 @@
 
     End Function
 
+    Private Sub RichTextBox1_TextChanged(sender As Object, e As EventArgs) Handles RichTextBox1.TextChanged
+
+    End Sub
 End Class
