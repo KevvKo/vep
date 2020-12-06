@@ -5,6 +5,7 @@ Module Program
 
         Dim input As String
 
+        'Aufgabe a.) => folgende Personen bleiben übrig: 103, 297, 404'
         'Loop to restart the program'
         Do
 
@@ -13,15 +14,17 @@ Module Program
             j = 0
             Dim countPersons, remainingPersons, steps As Integer
 
-            'Inputs from the user for the algorithm'
+            'Aufgabe b.) => Inputs from the user for the algorithm'
 
             While True
                 Console.WriteLine("Bitte geben Sie die Gesamtanzahl der Personen ein:")
                 Dim inp As String = Console.ReadLine()
 
-                'Typecheck if input is an integer and larger than 1'
-                If (Int32.TryParse(inp, countPersons) And inp >= 1) Then
-                    Exit While
+                'Typecheck if input is an integer and larger than 1'        'Aufgabe d.) => errorhandling'
+                If (Int32.TryParse(inp, countPersons)) Then
+                    If (inp >= 1) Then
+                        Exit While
+                    End If
                 End If
             End While
 
@@ -30,8 +33,10 @@ Module Program
                 Dim inp As String = Console.ReadLine()
 
                 'Typecheck if input is an integer and larger than 1'
-                If (Int32.TryParse(inp, remainingPersons) And inp >= 1) Then
-                    Exit While
+                If (Int32.TryParse(inp, remainingPersons)) Then      'Aufgabe d.) => errorhandling'
+                    If (inp >= 1) Then
+                        Exit While
+                    End If
                 End If
             End While
 
@@ -40,8 +45,10 @@ Module Program
                 Dim inp As String = Console.ReadLine()
 
                 'Typecheck if input is an integer and larger than 1'
-                If (Int32.TryParse(inp, steps) And inp >= 1) Then
-                    Exit While
+                If (Int32.TryParse(inp, steps)) Then                  'Aufgabe d.) => errorhandling'
+                    If (inp >= 1) Then
+                        Exit While
+                    End If
                 End If
             End While
 
