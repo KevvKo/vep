@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bonus-HA_Weihnachtsgruß
+</name>
+</assembly>
+<members>
+<member name="T:Bonus_HA_Weihnachtsgruß.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Bonus_HA_Weihnachtsgruß.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Bonus_HA_Weihnachtsgruß.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Bonus_HA_Weihnachtsgruß.My.Resources.Resources.Carol_Of_The_Bells___Audionautix">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Bonus_HA_Weihnachtsgruß.My.Resources.Resources.Jingle_Bells___Kevin_MacLeod">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>
