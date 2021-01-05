@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HA_OOP_Team24/1.0.0": {
+        "runtime": {
+          "HA_OOP_Team24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HA_OOP_Team24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

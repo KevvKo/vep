@@ -1,0 +1,13 @@
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\bin\Debug\netcoreapp3.1\HA_OOP_Team24.exe
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\bin\Debug\netcoreapp3.1\HA_OOP_Team24.deps.json
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\bin\Debug\netcoreapp3.1\HA_OOP_Team24.runtimeconfig.json
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\bin\Debug\netcoreapp3.1\HA_OOP_Team24.runtimeconfig.dev.json
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\bin\Debug\netcoreapp3.1\HA_OOP_Team24.dll
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\bin\Debug\netcoreapp3.1\HA_OOP_Team24.pdb
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\obj\Debug\netcoreapp3.1\HA_OOP_Team24.vbprojAssemblyReference.cache
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\obj\Debug\netcoreapp3.1\HA_OOP_Team24.AssemblyInfoInputs.cache
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\obj\Debug\netcoreapp3.1\HA_OOP_Team24.AssemblyInfo.vb
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\obj\Debug\netcoreapp3.1\HA_OOP_Team24.vbproj.CoreCompileInputs.cache
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\obj\Debug\netcoreapp3.1\HA_OOP_Team24.dll
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\obj\Debug\netcoreapp3.1\HA_OOP_Team24.pdb
+D:\vep\HA_OOP_Team24\HA_OOP_Team24\HA_OOP_Team24\obj\Debug\netcoreapp3.1\HA_OOP_Team24.genruntimeconfig.cache
