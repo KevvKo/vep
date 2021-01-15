@@ -8,9 +8,13 @@ Public MustInherit Class Medikament
         _Bestand = 0
         _Zuzahlung = Math.Round(Zuzahlung, 2)
 
-        If isHexadecimal(MedikamentenID) Then
-            _MedikamentenID = MedikamentenID
-        End If
+        Do While Not isHexadecimal(MedikamentenID)
+            Console.WriteLine(MedikamentenID & " ist kein gültiger Hexadezimalwert. Bitte neue ID wählen." & vbCrLf)
+            MedikamentenID = Console.ReadLine()
+        Loop
+
+        _MedikamentenID = MedikamentenID
+
 
     End Sub
 
@@ -31,10 +35,13 @@ Public MustInherit Class Medikament
             Return _MedikamentenID
         End Get
 
-        Set(value As String)
-            If isHexadecimal(value) Then
-                _MedikamentenID = value
-            End If
+        Set(value As String)    'Prüft solange den Wert bis es eine Hexadezimalzahl ist und führt es dann weiter aus.
+
+            Do While Not isHexadecimal(MedikamentenID)
+                Console.WriteLine(MedikamentenID & " ist kein gültiger Hexadezimalwert. Bitte neue ID wählen." & vbCrLf)
+                _MedikamentenID = Console.ReadLine()
+            Loop
+
         End Set
     End Property
 
@@ -67,18 +74,19 @@ Public MustInherit Class Medikament
     'Prüft, ob ein gegebener String Hexadezimal ist
     Public Shared Function isHexadecimal(value As String) As Boolean
 
-        Dim letters = New String() {"A", "B", "C", "D", "F"}
+        Dim letters = New String() {"A", "B", "C", "D", "E", "F"}
         Dim numbers = New String() {"10", "11", "12", "13", "14", "15"}
+
         value = value.ToUpper()
 
-        For i As Integer = 0 To 6
+        For i = 0 To letters.GetUpperBound(0)
 
             If value.Contains(letters(i)) Then
                 value = value.Replace(letters(i), numbers(i))
             End If
-
-            Return IsNumeric(value)
         Next
+
+        Return IsNumeric(value)
 
     End Function
 
@@ -140,58 +148,5 @@ Public Class VerschreibungspflichtigesMedikament
     End Property
     Public Overrides Function benötigtFacharzt() As Boolean
         Return _Facharzt
-    End Function
-End Class
-
-Public Class Warenkorb
-    Inherits List(Of Medikament)
-
-    Public Function berechneZuzahlung() As Double
-        Dim summe As Double = 0
-
-        For Each medikament As Medikament In Me  'Rechnet hier alle Zuzahlung für die Medikamente im Warnekorb auf
-            summe += medikament.Zuzahlung
-        Next
-
-        Return summe
-    End Function
-
-    Public Function prüfeBestand() As Boolean
-
-        Dim bestandIstGedeckt = True
-
-        For Each medikament As Medikament In Me     'Prüft über alle Medikamente im Korb, ob jedes Medikament mindestens 1x vorhanden ist
-            If medikament.Bestand = 0 Then
-                bestandIstGedeckt = False
-
-                Exit For
-            End If
-        Next
-
-        Return bestandIstGedeckt
-    End Function
-
-    Public Function benötigtRezept() As Boolean
-
-        For Each medikament As Medikament In Me                                'Prüft über alle Medikamente im Korb, ob ein
-            If TypeOf medikament Is VerschreibungspflichtigesMedikament Then   ' verschreibungspflichtiges Medikament vorhanden sit
-                Return True
-            End If
-        Next
-
-        Return False
-    End Function
-    Public Function benötigtFacharzt() As Boolean
-
-        For Each medikament As Medikament In Me                                'Prüft über alle Medikamente im Korb, ob ein
-            If TypeOf medikament Is VerschreibungspflichtigesMedikament Then   ' verschreibungspflichtiges Medikament vorhanden sit
-
-                If medikament.benötigtFacharzt() Then
-                    Return True
-                End If
-            End If
-        Next
-
-        Return False
     End Function
 End Class
